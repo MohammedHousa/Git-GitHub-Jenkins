@@ -11,7 +11,6 @@ Jenkins is a free and open source automation server. It helps automate the parts
 GitHub Repo: https://github.com/MohammedHousa/Git-GitHub-Jenkins
 
 Tutorials:
-
 1. How to work with Git https://youtu.be/ZeyN0TAGcUc
 2. How to work with Git & GitHub https://youtu.be/qDRA0EIZB04
 3. How to work with Git, GitHub, and Jenkins https://youtu.be/ZJeV1diTOII
