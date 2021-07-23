@@ -12,6 +12,6 @@ GitHub Repo: https://github.com/MohammedHousa/Git-GitHub-Jenkins
 
 Tutorials:
 
-1. How to work with Git https://www.youtube.com/watch?v=ZeyN0TAGcUc&list=PLUy8DvyX4nDHC4eWxkQlys916OA3Ytctq&index=1
-2. How to work with Git & GitHub https://www.youtube.com/watch?v=qDRA0EIZB04&list=PLUy8DvyX4nDHC4eWxkQlys916OA3Ytctq&index=2&t=300s
-3. How to work with Git, GitHub, and Jenkins https://www.youtube.com/watch?v=ZJeV1diTOII&list=PLUy8DvyX4nDHC4eWxkQlys916OA3Ytctq&index=3&t=328s
+1. How to work with Git https://youtu.be/ZeyN0TAGcUc
+2. How to work with Git & GitHub https://youtu.be/qDRA0EIZB04
+3. How to work with Git, GitHub, and Jenkins https://youtu.be/ZJeV1diTOII
