@@ -20,7 +20,7 @@ git checkout <branch name>
 git push -u <branch name>
 
 # Merge the master with your branch
-git merge <new branch>
+git merge <branch name>
 
 # Grap the logs from the main branch
 git rebase master
